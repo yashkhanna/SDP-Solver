@@ -8,5 +8,6 @@ Packages used:
 3) [Python 2.7](https://www.python.org/)
 
 How to use?
-Just run: python final.py <path_of_file_containing_adjacency_matrix> <value_of_k> 
+
+Just run: python final.py <path_of_file_containing_the_adjacency_matrix> <value_of_k> 
 (Eg: python final.py graph.txt 4)
